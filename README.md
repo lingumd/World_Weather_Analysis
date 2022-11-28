@@ -17,6 +17,7 @@ From WeatherPy_Database.csv file and input from the user on preferred maximum an
 
 ## Create a Travel Itinerary Map
 [Link to Vacation Itinerary code](./Vacation_Itinerary/Vacation_Itinerary.ipynb)
+
 From the WeatherPy_vacation.csv file, select 4 cities and create a travel itinerary route between the 4 cities by creating dataframes for each city, then creating a direction layer to map the route between the start point, the waypoints, and the stop point. An example of the map for the route being from Shimoda, JP to Nara, JP to Hasaki, JP to Katsuura, JP and back to Shimoda, JP is shown below.
 
 ![](./Vacation_Itinerary/WeatherPy_travel.png)
